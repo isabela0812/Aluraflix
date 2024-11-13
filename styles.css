@@ -1,0 +1,27 @@
+body{
+ color :white;
+ background:lightpink;
+margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px white;
+    padding: 20px;
+    font-size: 32px;
+    color: rgba(238, 14, 212, 0.954);
+}
+
+section{
+background:rgba(253, 66, 225, 0.954);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+}
+
+.chamada-texto{
+    margin-right: 20px;
+}
+
+
+
